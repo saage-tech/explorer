@@ -20,6 +20,12 @@
       "logo": "/logos/sge.png"
     }
   ],
+  "faucet": {
+    "amount": "10000000000uatom",
+    "ip_limit": "100",
+    "address_limit": "100",
+    "fees": "100usge"
+  },
   "logo": "/logos/sge.png",
   "sdk_version": "0.45.8"
 }
